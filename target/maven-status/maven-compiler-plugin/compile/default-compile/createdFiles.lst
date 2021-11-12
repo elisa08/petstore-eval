@@ -1,0 +1,9 @@
+fr\digi\petStore\Adresse.class
+fr\digi\petStore\Animal.class
+fr\digi\petStore\Product.class
+fr\digi\petStore\ProdType.class
+fr\digi\petStore\Cat.class
+fr\digi\petStore\Fish.class
+fr\digi\petStore\PetStore.class
+fr\digi\petStore\Test\PetStoreApp.class
+fr\digi\petStore\FishEnv.class
